@@ -14,9 +14,8 @@ The main page is a colab journal which includes the process, training, and evalu
 
 </br>
 <b>
-Here is the abstract from our work.</b>
+Here is the abstract from our work.</b> </br>
 <i>
-\begin{abstract}
     Obtaining accurate and timely channel state information (CSI) is a fundamental challenge for large MIMO systems. 
   Mobile cellular systems like 5G use a beam management framework that joins the initial access, beamforming, CSI acquisition, and data transmission. 
   The design of codebooks for these stages, however, is challenging due to their interrelationships, varying array sizes, and site-specific channel and user distributions. 

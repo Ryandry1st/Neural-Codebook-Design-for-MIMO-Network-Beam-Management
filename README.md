@@ -21,4 +21,4 @@ Here is the abstract from our work.</b> </br>
   The design of codebooks for these stages, however, is challenging due to their interrelationships, varying array sizes, and site-specific channel and user distributions. 
   Furthermore, beam management is often focused on single-sector operations while ignoring the overarching network- and system-level optimization. 
   In this paper, we proposed an end-to-end learned codebook design algorithm, network beamspace learning (NBL), that captures and optimizes codebooks to mitigate interference while maximizing the achievable performance with extremely large hybrid arrays. 
-  The proposed algorithm requires limited shared information yet designs codebooks that outperform traditional codebooks by over $10$dB in beam alignment and achieve more than $25\%$ improvements in network spectral efficiency. </i>
+  The proposed algorithm requires limited shared information yet designs codebooks that outperform traditional codebooks by over 10 dB in beam alignment and achieve more than $25\%$ improvements in network spectral efficiency. </i>
